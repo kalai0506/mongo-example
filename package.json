@@ -1,0 +1,15 @@
+{
+  "name": "mongo-example",
+  "version": "1.0.0",
+  "main": "server.js",
+  "author": "kalai",
+  "license": "MIT",
+  "dependencies": {
+    "mongodb": "^2.2.33",
+    "restify": "^6.2.3",
+    "restify-router": "^0.4.2"
+  },
+  "devDependencies": {
+    "nodemon": "^1.12.1"
+  }
+}
